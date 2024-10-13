@@ -25,7 +25,7 @@ For the complete version of the code, feel free to **DM me**.
 
 1. **Google App Engine (GAE)**: Hosting the risk analysis API. ![GAE Logo](https://img.icons8.com/color/48/google-cloud.png)
 2. **AWS Lambda**: Serverless functions for running tasks. ![Lambda Logo](https://img.icons8.com/color/48/amazon-web-services.png)
-3. **Amazon EC2**: Scalable computing for resource-intensive operations. ![EC2 Logo](https://img.icons8.com/color/48/amazon-ec2.png)
+3. **Amazon EC2**: Scalable computing for resource-intensive operations. ![EC2 Logo](https://img.icons8.com/color/48/amazon-web-services.png)
 
 ## 📜 Guidelines Followed
 
